@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/react-cafe-vidget/static/css/main.31d6cfe0.css",
+    "main.js": "/react-cafe-vidget/static/js/main.2df491ce.js",
+    "index.html": "/react-cafe-vidget/index.html",
+    "main.2df491ce.js.map": "/react-cafe-vidget/static/js/main.2df491ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.2df491ce.js"
+  ]
+}
